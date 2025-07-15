@@ -7,11 +7,9 @@
 
 import SwiftUI
 
-
-
 struct ContentView: View {
     var body: some View {
-        StyledNavigationView()
+        PlaceButtonsView2()
     }
 }
 
