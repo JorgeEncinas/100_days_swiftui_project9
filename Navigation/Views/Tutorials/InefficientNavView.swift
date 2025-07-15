@@ -42,3 +42,6 @@ struct SimpleNavigationView : View {
     }
 }
 
+#Preview {
+    SimpleNavigationView()
+}
